@@ -1,0 +1,13 @@
+{
+    devName: Shashi Kumar Verma,
+    Email: "shashikumarverma23@gmail.com" 
+    app_name: Secure Browser,
+    version: "1",
+    app_link:"https://securebrowser.example.com/download",
+    release_date: "2024-06-15",
+    changelog: [
+        "Improved security features",
+        "Enhanced user interface",
+        "Bug fixes and performance improvements"
+    ]
+}
