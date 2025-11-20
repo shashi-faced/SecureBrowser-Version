@@ -1,7 +1,7 @@
 {
-    devName: Shashi Kumar dev,
+    devName: "Shashi Kumar dev",
     Email: "shashikumarverma23@gmail.com" 
-    app_name: Secure Browser,
+    app_name: "Secure Browser",
     version: "1",
     app_link:"https://securebrowser.example.com/download",
     release_date: "2024-06-15",
