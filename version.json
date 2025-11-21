@@ -5,7 +5,7 @@
   "version": "2",
   "app_link": "https://securebrowser.example.com/download",
   "release_date": "2025-06-12",
-  "deprecate": false,
+  "deprecate": true,
   "changelog": [
     "Improved security features",
     "Enhanced user interface",
