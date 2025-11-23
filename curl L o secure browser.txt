@@ -1,0 +1,3 @@
+curl -L -o secure-browser_0.1.0_amd64.deb "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/secure-browser_0.1.0_amd64.deb" \
+&& echo "fa67891f950be33007a7ac6b6762d46c386e863783f8710f52d6e4194688a99c  secure-browser_0.1.0_amd64.deb" | sha256sum -c - \
+&& sudo apt install -y ./secure-browser_0.1.0_amd64.deb
