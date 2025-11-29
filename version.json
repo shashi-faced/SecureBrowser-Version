@@ -1,14 +1,21 @@
 {
-  "devName": "Shashi Kumar",
-  "email": "shashikumarverma507@gmail.com",
+  "devName": "Shashi Kumar Verma",
+  "email": "shashikumarverma@freeutils.in",
   "app_name": "Secure Browser",
-  "version": "1.0.0",
-  "app_link": "https://freeutils.in",
-  "release_date": "2025-06-12",
-  "deprecate": false,
+  "version": "1.2.0",
+  "app_link": "https://yourdomain.com/downloads/secure-browser.html",
+  "downloadLinks": {
+    "windows": "https://yourdomain.com/downloads/secure-browser-1.2.0-win.exe",
+    "linux": "https://yourdomain.com/downloads/secure-browser-1.2.0-linux.AppImage"
+  },
+  "release_date": "2025-12-05",
   "changelog": [
-    "Improved security features",
-    "Enhanced user interface",
-    "Bug fixes and performance improvements"
-  ]
+    "New Feature: Inbuilt VPN added",
+    "Added WhatsApp compatibility fix",
+    "Improved screen-share diagnostics",
+    "Misc. stability patches",
+    "Improved overall UI appearance",
+    "Fixed security issues"
+  ],
+  "deprecate": false
 }
