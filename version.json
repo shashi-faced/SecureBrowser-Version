@@ -3,9 +3,9 @@
   "email": "shashikumarverma@freeutils.in",
   "app_name": "Secure Browser",
   "version": "1.2.0",
-  "app_link": "https://yourdomain.com/downloads/secure-browser.html",
+  "app_link": "freeUtils.in",
   "downloadLinks": {
-    "windows": "https://yourdomain.com/downloads/secure-browser-1.2.0-win.exe",
+    "windows": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/Secure%20Browser%20Setup%200.1.0.exe",
     "linux": "https://yourdomain.com/downloads/secure-browser-1.2.0-linux.AppImage"
   },
   "release_date": "2025-12-05",
