@@ -8,7 +8,7 @@
     "windows": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/Secure%20Agentic%20Browser%20Setup%200.1.0.exe",
     "linux": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/secure-browser_0.1.0_amd64.deb"
   },
-  "EDENAI_API_KEY"="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo",
+  "EDENAI_API_KEY":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo",
   "release_date": "2025-12-05",
   "changelog": [
     "Ai Chat integrated",
