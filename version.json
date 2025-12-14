@@ -2,21 +2,19 @@
   "devName": "Shashi Kumar Verma",
   "email": "shashikumarverma@freeutils.in",
   "app_name": "Secure Agentic Browser",
-  "version": "1.2.0",
+  "version": "0.1.0",
   "app_link": "freeUtils.in",
   "downloadLinks": {
     "windows": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/Secure%20Agentic%20Browser%20Setup%200.1.0.exe",
     "linux": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/secure-browser_0.1.0_amd64.deb"
   },
   "EDENAI_API_KEY":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo",
-  "release_date": "2025-12-05",
+  "release_date": "2025-12-14",
   "changelog": [
-    "Ai Chat integrated",
-    "Agent mode added",
-    "New Feature: Inbuilt VPN added",
-    "Misc. stability patches",
-    "Improved overall UI appearance",
-    "Fixed security issues"
+    "Fixed DevTools positioning issue when AI chat panel is open",
+    "Improved chat panel and DevTools compatibility",
+    "Enhanced layout management for better user experience",
+    "Security patches and stability improvements"
   ],
   "deprecate": false
 }
