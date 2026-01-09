@@ -16,8 +16,8 @@
     "Added version synchronization between local and GitHub",
     "Security patches and stability improvements"
   ],
-  "deprecate": false
+  "deprecate": false,
+    "EDENAI_API_KEY":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo",
 }
 
-  "EDENAI_API_KEY":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo",
 
