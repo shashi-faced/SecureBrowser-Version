@@ -1,12 +1,12 @@
 {
   "devName": "Shashi Kumar Verma",
   "email": "shashikumarverma@freeutils.in",
-  "app_name": "OpsBot Agentic Browse",
+  "app_name": "Ops Browser",
   "version": "0.2.0",
-  "app_link": "freeUtils.in",
+  "app_link": "https://freeutils.in",
   "downloadLinks": {
-    "windows": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/Secure%20Agentic%20Browser%20Setup%200.2.0.exe",
-    "linux": "https://raw.githubusercontent.com/shashi-faced/SecureBrowser-Version/main/secure-browser_0.2.0_amd64.deb"
+    "windows": "https://raw.githubusercontent.com/shashi-faced/OpsBrowser-Version/main/Ops%20Browser%20Setup%200.2.0.exe",
+    "linux": "https://raw.githubusercontent.com/shashi-faced/OpsBrowser-Version/main/ops-browser_0.2.0_amd64.deb"
   },
   "release_date": "2025-12-14",
   "changelog": [
@@ -17,5 +17,5 @@
     "Security patches and stability improvements"
   ],
   "deprecate": false,
-  "EDENAI_API_KEY": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo"
+    "EDENAI_API_KEY": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjZjYmU2NzAtY2YwZC00ZDQwLThhMDEtMGFlNTQ1MzY1NzNiIiwidHlwZSI6ImZyb250X2FwaV90b2tlbiJ9.c64Qcf04XGz0KLopM57ecx2uzH_NIPkZD722dlLwMvo"
 }
